@@ -1,0 +1,114 @@
+.SECTION{
+    background-color:white;
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center; 
+}
+
+.CONTENEUR1{
+    background-color:rgb(252, 238, 238);
+    width: 50%;
+    height: 300px;
+}
+
+.CONTENEUR2{
+   background-color: rgb(255, 255, 255);
+    width: 40%;
+    height: 300px;
+}
+
+.flex-row
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center; 
+}
+.element0
+{
+    background-color:rgb(248, 252, 254);
+    width: 100%;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center; 
+    margin-bottom: 30px;
+}
+
+.GRAND
+{
+    background-color:rgba(15, 153, 249, 1);
+    width: 100%;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center; 
+
+}
+.BABY1
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center; 
+    background-color:white;
+    width: 30%;
+    height: 150px;
+    
+}
+.BABY2
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center; 
+    background-color:white;
+    width: 30%;
+    height: 150px;
+    
+}
+.BABY3
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center; 
+    background-color:white;
+    width: 30%;
+    height: 150px;
+    
+}
+section.contact_us{
+
+   
+    height: 100px;
+}
+
+section.contact_us input,section.contact_us{
+    width:100%;
+    max-width:308px !important;
+    border:1px solid #aeacac;
+    padding:20px;
+    background-color:rgb(253, 253, 253);
+    margin-bottom:10px;
+    color:#0897f6;
+    box-sizing: border-box;
+    height: 80px;
+}
+.ENVOIE{
+    height: 40px;
+    
+}
+.LOGO
+{
+    margin-bottom: 40px;
+    height: 40px;
+    width: 80%;
+}
+
+
